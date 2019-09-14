@@ -10,9 +10,8 @@
 
 ---
 
-***●Model Architecture***
+***●Model Architecture  VGG16***
 
-   VGG16
 ![image](https://github.com/wayne1116/Scene_Recognition/blob/master/result_picture/Model_Architecture%20.jpg)
 
 ---
