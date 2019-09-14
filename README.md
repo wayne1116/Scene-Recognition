@@ -10,7 +10,7 @@
 
 ---
 
-***Result(Epoch: 35), Test Accuracy: 0.8606, Test Loss: 0.7284
+***Result(Epoch: 35), Test Accuracy: 0.8606, Test Loss: 0.7284**
 
 ![image](https://github.com/wayne1116/Scene_Recognition/blob/master/result_picture/result.png)
 
