@@ -13,7 +13,6 @@
 ***●Model Architecture  VGG16***
 
 ![image](https://github.com/wayne1116/Scene_Recognition/blob/master/result_picture/Model%20Architecture.jpg)
-![image](https://github.com/wayne1116/Scene_Recognition/blob/master/result_picture/Convolution.jpg)
 
 ---
 
