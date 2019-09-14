@@ -11,6 +11,7 @@
 ---
 
 ***●Model Architecture***
+
    VGG16
 ![image]()
 
