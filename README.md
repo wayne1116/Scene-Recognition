@@ -16,10 +16,10 @@
 
 ---
 
-***Training & Testing Accuracy***
+***Training & Testing Accuracy(Epoch: 35, Testing every 10 epochs)***
 ![image](https://github.com/wayne1116/Scene_Recognition/blob/master/result_picture/Acc.png)
 
 ---
 
-***Training & Testing Loss***
+***Training & Testing Loss(Epoch: 35, Testing every 10 epochs)***
 ![image](https://github.com/wayne1116/Scene_Recognition/blob/master/result_picture/Loss.png)
