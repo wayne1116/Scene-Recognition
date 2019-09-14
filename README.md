@@ -13,5 +13,6 @@
 ![image](https://github.com/wayne1116/Scene_Recognition/blob/master/result_picture/result.png)
 
 # Training/Testing Accuracy
+![image](https://github.com/wayne1116/Scene_Recognition/blob/master/result_picture/Acc.png)
 
 # Training/Testing Loss
