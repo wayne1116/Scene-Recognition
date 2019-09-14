@@ -8,7 +8,7 @@
 
 ***Reference:*** https://www.kaggle.com/puneet6060/intel-image-classification 
 
-# Parameters
+# Parameters (train.py)
 
 seed=1024
 
